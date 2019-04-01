@@ -1,0 +1,8 @@
+1554154180741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lchiem\\AppData\\Local\\Temp\\rust_mozprofile.hhCHIeQao5qj"
+Unable to read VR Path Registry from C:\Users\lchiem\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://cck2/CCK2.jsm, line 1034: NS_ERROR_XPC_BAD_IID: Component returned failure code: 0x80570018 (NS_ERROR_XPC_BAD_IID) [nsIJSCID.getService]
+1554154193856	Marionette	INFO	Listening on port 64035
+1554154194094	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 159: Error: Data is not ready.
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 159: Error: Data is not ready.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
